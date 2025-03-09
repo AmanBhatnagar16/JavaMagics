@@ -1,7 +1,7 @@
 # ISC Class 12th Computer 
- <strong> Java Magician in making </strong>
+ <strong> Programs for Class 12th  </strong>
  
-Java Magics is a collection of Java programs that I have studied in High School.
+A collection of Java programs that I have studied in High School.
 
 
 ## Getting Started
