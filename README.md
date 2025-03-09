@@ -1,7 +1,8 @@
 # JavaMagics 
  <strong> Java Magician in making </strong>
  
-Java Magics is a collection of Java programs that I have studied in High School . These programs are designed to help you understand the fundamentals of Java programming and build a strong foundation for your future programming endeavors for anybody . 
+Java Magics is a collection of Java programs that I have studied in High School.
+
 
 ## Getting Started
 
